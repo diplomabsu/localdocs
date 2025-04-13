@@ -1,0 +1,8 @@
+logging==0.4.9.6
+markdown-it-py==3.0.0
+mdurl==0.1.2
+psycopg2-binary==2.9.10
+Pygments==2.19.1
+PyMuPDF==1.25.5
+python-dotenv==1.1.0
+rich==14.0.0
